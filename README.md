@@ -1,2 +1,2 @@
 # Streamlit 
-halodunia.streamlit.app
+https://halodunia.streamlit.app
